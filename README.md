@@ -8,11 +8,5 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Учеба-Прогуляна%20(все%20пары)-orange?style=for-the-badge&logo=googlecalendar"/>
   <img src="https://img.shields.io/badge/Карьера-Не%20сложилась%20(IT)-red?style=for-the-badge&logo=codefactor"/>
-  <img src="https://img.shields.io/badge/Сейчас-Рабочий%20цех%20№5-black?style=for-the-badge&logo=github"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif?cid=790b7611w3n2fb2q9p9k29kjqfh6dpytot2s3gw9uu7mse3t&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300" height="200" />
+  <img src="https://img.shields.io/badge/Сейчас-Рабочий%20цех%20№22-black?style=for-the-badge&logo=github"/>
 </p>
